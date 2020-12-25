@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 953abf417929baf42abb4c881ce77815
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7505026498643516074
+    second: NicePng_png-letters_790520_0
+  - first:
+      213: -6651855057072820192
+    second: NicePng_png-letters_790520_1
+  - first:
+      213: 2362752534157611215
+    second: NicePng_png-letters_790520_2
+  - first:
+      213: 3443915967086572810
+    second: NicePng_png-letters_790520_3
+  - first:
+      213: -1514338264049866672
+    second: NicePng_png-letters_790520_4
+  - first:
+      213: 1874085480724048991
+    second: NicePng_png-letters_790520_5
+  - first:
+      213: 5842900790004612239
+    second: NicePng_png-letters_790520_6
+  - first:
+      213: 2866367951179811392
+    second: NicePng_png-letters_790520_7
+  - first:
+      213: 2862031521425419598
+    second: NicePng_png-letters_790520_8
+  - first:
+      213: 7629541793480914684
+    second: NicePng_png-letters_790520_9
+  - first:
+      213: 6954306555824661328
+    second: NicePng_png-letters_790520_10
+  - first:
+      213: -2329127034325420426
+    second: NicePng_png-letters_790520_11
+  - first:
+      213: 6779232989880852853
+    second: NicePng_png-letters_790520_12
+  - first:
+      213: 5279839763195437480
+    second: NicePng_png-letters_790520_13
+  - first:
+      213: 3186185640413517352
+    second: NicePng_png-letters_790520_14
+  - first:
+      213: -1097521646656572248
+    second: NicePng_png-letters_790520_15
+  - first:
+      213: -3626677321352628750
+    second: NicePng_png-letters_790520_16
+  - first:
+      213: 3014722857590848961
+    second: NicePng_png-letters_790520_17
+  - first:
+      213: 6406594638915177546
+    second: NicePng_png-letters_790520_18
+  - first:
+      213: -6877028067572305209
+    second: NicePng_png-letters_790520_19
+  - first:
+      213: 3638183112966699711
+    second: NicePng_png-letters_790520_20
+  - first:
+      213: -1372111902099582125
+    second: NicePng_png-letters_790520_21
+  - first:
+      213: 8937043841023383456
+    second: NicePng_png-letters_790520_22
+  - first:
+      213: -4641686981482746084
+    second: NicePng_png-letters_790520_23
+  - first:
+      213: 2056738346458199676
+    second: NicePng_png-letters_790520_24
+  - first:
+      213: -1074354508644924070
+    second: NicePng_png-letters_790520_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4091
+        width: 928
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa5a8156d5372860800000000000000
+      internalID: 7505026498643516074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_1
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 4083
+        width: 698
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020f9c1911ddfa3a0800000000000000
+      internalID: -6651855057072820192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_2
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 4091
+        width: 797
+        height: 1085
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc05e9259ee2ac020800000000000000
+      internalID: 2362752534157611215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_3
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 4087
+        width: 793
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05bd7e435f3bcf20800000000000000
+      internalID: 3443915967086572810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_4
+      rect:
+        serializedVersion: 2
+        x: 4818
+        y: 4084
+        width: 660
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058a6854f5dfbfae0800000000000000
+      internalID: -1514338264049866672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_5
+      rect:
+        serializedVersion: 2
+        x: 5890
+        y: 4087
+        width: 736
+        height: 1089
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c264db0d6120a10800000000000000
+      internalID: 1874085480724048991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_6
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 4087
+        width: 810
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cf21ebf47261150800000000000000
+      internalID: 5842900790004612239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2729
+        width: 837
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a03a5077267c720800000000000000
+      internalID: 2866367951179811392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_8
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2729
+        width: 746
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d688a418af7b720800000000000000
+      internalID: 2862031521425419598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_9
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 2730
+        width: 813
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf63d6f86d391e960800000000000000
+      internalID: 7629541793480914684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_10
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 2725
+        width: 684
+        height: 1087
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053691f87f8a28060800000000000000
+      internalID: 6954306555824661328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_11
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 2729
+        width: 682
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67636427d474dafd0800000000000000
+      internalID: -2329127034325420426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_12
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 2726
+        width: 832
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57125738c7ca41e50800000000000000
+      internalID: 6779232989880852853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_13
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 2729
+        width: 787
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a12f347a42c54940800000000000000
+      internalID: 5279839763195437480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1371
+        width: 839
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8265c4575fa973c20800000000000000
+      internalID: 3186185640413517352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_15
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1368
+        width: 711
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4bbb590e1d4c0f0800000000000000
+      internalID: -1097521646656572248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_16
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 1266
+        width: 788
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5bfc1f0347badc0800000000000000
+      internalID: -3626677321352628750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_17
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 1375
+        width: 717
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdf3fe577276d920800000000000000
+      internalID: 3014722857590848961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_18
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 1372
+        width: 686
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c067861ebc8e850800000000000000
+      internalID: 6406594638915177546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_19
+      rect:
+        serializedVersion: 2
+        x: 5852
+        y: 1375
+        width: 831
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c236f99863ef80a0800000000000000
+      internalID: -6877028067572305209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_20
+      rect:
+        serializedVersion: 2
+        x: 7038
+        y: 1379
+        width: 766
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba743ce34c6d7230800000000000000
+      internalID: 3638183112966699711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_21
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 0
+        width: 944
+        height: 1055
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353d44bae7745fce0800000000000000
+      internalID: -1372111902099582125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_22
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 21
+        width: 1022
+        height: 1034
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a79a4ed502c60c70800000000000000
+      internalID: 8937043841023383456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_23
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 13
+        width: 876
+        height: 1053
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f6a26784a659fb0800000000000000
+      internalID: -4641686981482746084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_24
+      rect:
+        serializedVersion: 2
+        x: 4670
+        y: 0
+        width: 835
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76b09801a00b8c10800000000000000
+      internalID: 2056738346458199676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_png-letters_790520_25
+      rect:
+        serializedVersion: 2
+        x: 5890
+        y: 0
+        width: 736
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55416d34402711f0800000000000000
+      internalID: -1074354508644924070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
